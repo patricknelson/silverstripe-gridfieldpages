@@ -8,7 +8,7 @@
         "name": "micschk"
     }],
     "require": {
-		"php": ">=5.4.0,<7",
+		"php": ">=5.4.0",
         "silverstripe/framework": "~3.0",
 		"silverstripe/cms": "~3.0",
 		"micschk/silverstripe-excludechildren": "*",
